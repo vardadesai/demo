@@ -1,0 +1,5 @@
+<environment>
+  <dev>https://www.google.com</dev>
+  <test>https://paytm.com/</test>
+  <preprod>https://www.flipkart.com</preprod>
+</environment>
